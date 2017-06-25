@@ -1,0 +1,41 @@
+﻿@inherits Umbraco.Web.Macros.PartialViewMacroPage
+
+
+<footer>
+  <div class="container" style="border-top: solid;">
+    <div class="row">
+      <div class="col-md-4 col-sm-6 footerleft ">
+        <p><i class="fa fa-map-marker"></i> Søndervang 21, Viby J, Denmark</p>
+        <p><i class="fa fa-phone"></i> Phone (DK) : +45 8888 8888</p>
+        <p><i class="fa fa-envelope"></i> E-mail : info@AWDC.com</p>
+        
+      </div>
+      <div class="col-md-2 col-sm-6 paddingtop-bottom">
+        <h6 class="heading7">SITEMAP</h6>
+          @Umbraco.RenderMacro("Sitemap")
+      </div>
+      <div class="col-md-3 col-sm-6 paddingtop-bottom">
+        <h6 class="heading7">LATEST PROJECTS</h6>
+        <div class="post">
+          @Umbraco.RenderMacro("top5CompletedProjects")
+        </div>
+      </div>
+      <div class="col-md-3 col-sm-6 paddingtop-bottom">
+        <div class="fb-page" data-href="https://www.facebook.com/facebook" data-tabs="timeline" data-height="300" data-small-header="false" style="margin-bottom:15px;" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+          <div class="fb-xfbml-parse-ignore">
+            <blockquote cite="https://www.facebook.com/facebook"><a href="https://www.facebook.com/facebook">Facebook</a></blockquote>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!--footer start from here-->
+
+<div class="copyright">
+  <div class="container">
+    <div class="col-md-6">
+      <p>© 2017</p>
+    </div>
+  </div>
+</div>

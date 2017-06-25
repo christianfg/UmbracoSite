@@ -1,0 +1,141 @@
+﻿ 2017-06-13 07:32:56,523 [P6368/D2/T26] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username christiangrotner@gmail.com from IP address ::1
+ 2017-06-13 07:32:56,523 [P6368/D2/T26] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: christiangrotner@gmail.com logged in from IP address ::1
+ 2017-06-13 07:54:13,614 [P6368/D2/T66] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-06-13 07:54:13,638 [P6368/D2/T66] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-06-13 07:54:13,639 [P6368/D2/T63] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:54:13,677 [P6368/D2/T66] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:54:13,689 [P6368/D2/T63] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:54:13,690 [P6368/D2/T66] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:54:13,699 [P6368/D2/T63] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:54:13,704 [P6368/D2/T66] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:54:15,545 [P6368/D2/T66] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field crops
+ 2017-06-13 07:54:15,582 [P6368/D2/T66] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:54:15,593 [P6368/D2/T66] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-06-13 07:54:15,607 [P6368/D2/T66] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:54:15,619 [P6368/D2/T66] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:54:15,633 [P6368/D2/T66] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:54:15,653 [P6368/D2/T66] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:54:15,665 [P6368/D2/T66] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:54:15,675 [P6368/D2/T66] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-06-13 07:55:25,027 [P6368/D2/T78] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field crops
+ 2017-06-13 07:55:25,062 [P6368/D2/T85] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:55:25,085 [P6368/D2/T81] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-06-13 07:55:25,125 [P6368/D2/T85] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:55:25,130 [P6368/D2/T81] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:55:25,136 [P6368/D2/T85] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:55:25,143 [P6368/D2/T81] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:55:25,154 [P6368/D2/T81] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:55:25,165 [P6368/D2/T85] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-06-13 07:56:08,342 [P6368/D2/T22] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-06-13 07:56:08,352 [P6368/D2/T15] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:08,363 [P6368/D2/T15] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-06-13 07:56:08,374 [P6368/D2/T15] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:08,387 [P6368/D2/T23] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:08,405 [P6368/D2/T27] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:08,405 [P6368/D2/T79] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:08,417 [P6368/D2/T27] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:14,551 [P6368/D2/T21] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field crops
+ 2017-06-13 07:56:14,591 [P6368/D2/T22] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:14,603 [P6368/D2/T80] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-06-13 07:56:14,673 [P6368/D2/T22] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:14,678 [P6368/D2/T80] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:14,685 [P6368/D2/T81] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:14,686 [P6368/D2/T22] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:14,688 [P6368/D2/T80] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:14,697 [P6368/D2/T21] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-06-13 07:56:22,455 [P6368/D2/T22] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field crops
+ 2017-06-13 07:56:22,497 [P6368/D2/T81] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:22,513 [P6368/D2/T81] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-06-13 07:56:22,538 [P6368/D2/T20] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:22,550 [P6368/D2/T80] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-06-13 07:56:22,550 [P6368/D2/T15] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:22,553 [P6368/D2/T72] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:22,557 [P6368/D2/T23] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:22,563 [P6368/D2/T22] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:45,486 [P6368/D2/T20] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field crops
+ 2017-06-13 07:56:45,542 [P6368/D2/T20] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:45,558 [P6368/D2/T20] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-06-13 07:56:45,574 [P6368/D2/T20] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:45,584 [P6368/D2/T20] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:45,595 [P6368/D2/T20] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:45,612 [P6368/D2/T20] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:45,624 [P6368/D2/T20] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:56:45,636 [P6368/D2/T20] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-06-13 07:57:53,074 [P6368/D2/T16] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
+ 2017-06-13 07:57:53,074 [P6368/D2/T16] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 0ms)
+ 2017-06-13 07:58:00,969 [P6368/D2/T16] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field crops
+ 2017-06-13 07:58:01,027 [P6368/D2/T16] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:58:01,048 [P6368/D2/T16] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-06-13 07:58:01,070 [P6368/D2/T16] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:58:01,091 [P6368/D2/T16] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:58:01,106 [P6368/D2/T16] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:58:01,125 [P6368/D2/T16] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:58:01,136 [P6368/D2/T16] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 07:58:01,149 [P6368/D2/T16] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-06-13 08:23:48,436 [P6368/D2/T69] INFO  Umbraco.Core.Logging.OwinLogger - Event Id: 0, state: User logged will be logged out due to timeout: christiangrotner@gmail.com, IP Address: ::1
+ 2017-06-13 09:00:39,496 [P6368/D2/T15] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username christiangrotner@gmail.com from IP address ::1
+ 2017-06-13 09:00:39,496 [P6368/D2/T15] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: christiangrotner@gmail.com logged in from IP address ::1
+ 2017-06-13 09:25:58,279 [P6368/D2/T75] INFO  Umbraco.Core.PluginManager - Starting resolution types of umbraco.interfaces.ICacheRefresher
+ 2017-06-13 09:25:58,305 [P6368/D2/T75] INFO  Umbraco.Core.PluginManager - Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 0 (took 26ms)
+ 2017-06-13 09:26:22,967 [P6368/D2/T78] INFO  Umbraco.Web.Editors.AuthenticationController - User christiangrotner@gmail.com from IP address ::1 has logged out
+ 2017-06-13 09:26:27,154 [P6368/D2/T75] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username Jane from IP address ::1
+ 2017-06-13 09:26:27,154 [P6368/D2/T75] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: Jane logged in from IP address ::1
+ 2017-06-13 09:26:38,916 [P6368/D2/T43] INFO  Umbraco.Web.Editors.AuthenticationController - User Jane from IP address ::1 has logged out
+ 2017-06-13 09:26:41,520 [P6368/D2/T69] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username christiangrotner@gmail.com from IP address ::1
+ 2017-06-13 09:26:41,520 [P6368/D2/T69] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: christiangrotner@gmail.com logged in from IP address ::1
+ 2017-06-13 09:28:35,238 [P6368/D2/T69] INFO  Umbraco.Web.Editors.AuthenticationController - User christiangrotner@gmail.com from IP address ::1 has logged out
+ 2017-06-13 09:28:39,053 [P6368/D2/T43] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username Tim from IP address ::1
+ 2017-06-13 09:28:41,750 [P6368/D2/T58] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username Tim from IP address ::1
+ 2017-06-13 09:28:44,808 [P6368/D2/T65] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username Tim from IP address ::1
+ 2017-06-13 09:28:48,613 [P6368/D2/T69] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username christiangrotner@gmail.com from IP address ::1
+ 2017-06-13 09:28:48,613 [P6368/D2/T69] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: christiangrotner@gmail.com logged in from IP address ::1
+ 2017-06-13 09:29:05,764 [P6368/D2/T38] INFO  Umbraco.Web.Editors.AuthenticationController - User christiangrotner@gmail.com from IP address ::1 has logged out
+ 2017-06-13 09:29:12,290 [P6368/D2/T58] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username Tim from IP address ::1
+ 2017-06-13 09:29:12,291 [P6368/D2/T58] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: Tim logged in from IP address ::1
+ 2017-06-13 09:29:19,355 [P6368/D2/T78] INFO  Umbraco.Web.Editors.AuthenticationController - User Tim from IP address ::1 has logged out
+ 2017-06-13 09:29:23,966 [P6368/D2/T46] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username christiangrotner@gmail.com from IP address ::1
+ 2017-06-13 09:29:23,966 [P6368/D2/T46] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: christiangrotner@gmail.com logged in from IP address ::1
+ 2017-06-13 09:30:17,671 [P6368/D2/T59] INFO  Umbraco.Core.PluginManager - Starting resolution types of Umbraco.Web.Trees.TreeController
+ 2017-06-13 09:30:17,671 [P6368/D2/T59] INFO  Umbraco.Core.PluginManager - Completed resolution of types of Umbraco.Web.Trees.TreeController, found 0 (took 0ms)
+ 2017-06-13 09:30:23,321 [P6368/D2/T69] INFO  Umbraco.Web.Editors.AuthenticationController - User christiangrotner@gmail.com from IP address ::1 has logged out
+ 2017-06-13 09:30:26,397 [P6368/D2/T63] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt failed for username Tim from IP address ::1
+ 2017-06-13 09:30:29,142 [P6368/D2/T69] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username Tim from IP address ::1
+ 2017-06-13 09:30:29,142 [P6368/D2/T69] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: Tim logged in from IP address ::1
+ 2017-06-13 09:34:00,126 [P6368/D2/T70] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username christiangrotner@gmail.com from IP address ::1
+ 2017-06-13 09:34:00,127 [P6368/D2/T70] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: christiangrotner@gmail.com logged in from IP address ::1
+ 2017-06-13 09:34:00,150 [P6368/D2/T70] ERROR Umbraco.Web.WebApi.Filters.AngularAntiForgeryHelper - Could not validate XSRF token
+System.Web.Mvc.HttpAntiForgeryException (0x80004005): The provided anti-forgery token was meant for user "Tim", but the current user is "christiangrotner@gmail.com".
+   at System.Web.Helpers.AntiXsrf.TokenValidator.ValidateTokens(HttpContextBase httpContext, IIdentity identity, AntiForgeryToken sessionToken, AntiForgeryToken fieldToken)
+   at System.Web.Helpers.AntiXsrf.AntiForgeryWorker.Validate(HttpContextBase httpContext, String cookieToken, String formToken)
+   at System.Web.Helpers.AntiForgery.Validate(String cookieToken, String formToken)
+   at Umbraco.Web.WebApi.Filters.AngularAntiForgeryHelper.ValidateTokens(String cookieToken, String headerToken)
+ 2017-06-13 09:38:37,898 [P6368/D2/T48] INFO  Umbraco.Core.Security.UmbracoMembershipProviderBase - Login attempt failed for username christiangrotner@gmail.com from IP address ::1, the user does not exist
+ 2017-06-13 09:38:37,898 [P6368/D2/T48] INFO  Umbraco.Web.Mvc.UmbracoPageResult - Executing Umbraco RouteDefinition controller
+ 2017-06-13 09:38:37,933 [P6368/D2/T48] INFO  Umbraco.Web.Mvc.UmbracoPageResult - Finished (took 35ms)
+ 2017-06-13 09:38:45,054 [P6368/D2/T75] INFO  Umbraco.Core.Security.UmbracoMembershipProviderBase - Login attempt failed for username Jane from IP address ::1, the user does not exist
+ 2017-06-13 09:38:45,054 [P6368/D2/T75] INFO  Umbraco.Web.Mvc.UmbracoPageResult - Executing Umbraco RouteDefinition controller
+ 2017-06-13 09:38:45,090 [P6368/D2/T75] INFO  Umbraco.Web.Mvc.UmbracoPageResult - Finished (took 36ms)
+ 2017-06-13 09:39:09,946 [P6368/D2/T59] INFO  Umbraco.Core.Security.UmbracoMembershipProviderBase - Login attempt failed for username Jane from IP address ::1, the user does not exist
+ 2017-06-13 09:39:09,946 [P6368/D2/T59] INFO  Umbraco.Web.Mvc.UmbracoPageResult - Executing Umbraco RouteDefinition controller
+ 2017-06-13 09:39:09,992 [P6368/D2/T59] INFO  Umbraco.Web.Mvc.UmbracoPageResult - Finished (took 46ms)
+ 2017-06-13 09:39:19,573 [P6368/D2/T40] INFO  Umbraco.Core.Security.UmbracoMembershipProviderBase - Login attempt failed for username Tim from IP address ::1, the user does not exist
+ 2017-06-13 09:39:19,573 [P6368/D2/T40] INFO  Umbraco.Web.Mvc.UmbracoPageResult - Executing Umbraco RouteDefinition controller
+ 2017-06-13 09:39:19,604 [P6368/D2/T40] INFO  Umbraco.Web.Mvc.UmbracoPageResult - Finished (took 31ms)
+ 2017-06-13 09:40:59,529 [P6368/D2/T69] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-06-13 09:40:59,553 [P6368/D2/T65] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 09:40:59,565 [P6368/D2/T58] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-06-13 09:40:59,590 [P6368/D2/T65] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 09:40:59,591 [P6368/D2/T75] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 09:40:59,591 [P6368/D2/T78] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 09:40:59,599 [P6368/D2/T58] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 09:40:59,612 [P6368/D2/T58] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 09:41:18,814 [P6368/D2/T75] INFO  Umbraco.Core.Security.UmbracoMembershipProviderBase - Login attempt succeeded for username Hans from IP address ::1
+ 2017-06-13 09:41:33,172 [P6368/D2/T15] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-06-13 09:41:33,178 [P6368/D2/T58] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 09:41:33,197 [P6368/D2/T40] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field crops
+ 2017-06-13 09:41:33,219 [P6368/D2/T40] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field default
+ 2017-06-13 09:41:33,236 [P6368/D2/T40] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 09:41:33,246 [P6368/D2/T75] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 09:41:33,252 [P6368/D2/T40] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 09:41:33,268 [P6368/D2/T75] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values
+ 2017-06-13 09:41:33,291 [P6368/D2/T40] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field values

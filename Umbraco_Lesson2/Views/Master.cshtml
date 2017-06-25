@@ -1,0 +1,52 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage<ContentModels.Master>
+@using ContentModels = Umbraco.Web.PublishedContentModels;
+@{
+	Layout = null;
+}
+<HTML>
+	<HEAD>
+	<TITLE>Aarhus Web Developer Corporation</TITLE>
+	<META NAME="description" content="@Umbraco.Field("metaDescription", recursive: true)">
+	<META NAME="keywords" content="@Umbraco.Field("metaKeywords", recursive: true)">
+
+    <script src="~/Scripts/jquery-3.1.1.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
+	</HEAD>
+	
+	<BODY>
+	<header class="container-fluid">
+		<h1>Aarhus Web Developer Corporation</h1>
+		<div class="row">
+			<nav>
+				<ul>
+				@Umbraco.RenderMacro("mainMenu")
+				</ul>                		
+			</nav>
+		</div>
+	</header>	
+	
+	<div class="container">	
+		<div class="row">
+	@RenderBody()
+		</div>
+	</div>
+	<br>
+	<br>		
+	
+	<div class="container">	
+		<div class="row">
+	@Umbraco.RenderMacro("footer")
+	</div>		
+	</div>		
+	</footer>
+	</div>
+	
+	</BODY>
+	
+</HTML>
